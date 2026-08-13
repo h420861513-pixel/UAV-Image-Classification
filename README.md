@@ -155,9 +155,3 @@ Confusion matrix:
         |-- models.py
         `-- utils.py
 ```
-
-## Resume Description
-
-You can describe this project like this:
-
-> Built a PyTorch-based UAV image classification project, reproduced and compared a baseline CNN and ResNet18 pipeline, organized the training, evaluation, and inference workflow into a reusable repository, and achieved 99.83% test accuracy on a UAV-vs-background classification task.
