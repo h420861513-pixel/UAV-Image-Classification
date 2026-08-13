@@ -1,0 +1,16 @@
+.idea/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+dataset1/
+
+checkpoints/*
+!checkpoints/.gitkeep
+
+outputs/*
+!outputs/.gitkeep
+
+*.pth
+*.pt
